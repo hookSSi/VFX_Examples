@@ -1,17 +1,9 @@
 # 개요
 
-VFX를 단계 단계 알아보고자 만든 저장소입니다.
+VFX 연습을 위해 하나 씩 간단하더라도 만들어 가는 게 목표입니다.
 
-유니티를 기반으로 여러 예시를 구현하고 정리하여 초보자도 쉽게 VFX를 익힐 수 있도록 지향합니다.
+The goal is to make something simple one by one for VFX practice.
 
-각 예시는 Scene별로 정리되어 독립적으로 구성되도록 합니다.
+저장소에 업로드된 모든 리소스는 직접 만든 저작권 없는 리소스로 구성되어 있습니다!
 
-## 분류
-
-### Loop
-
-#### 불
-
-### Once
-
-#### 폭발"# VFX_Examples" 
+All resources uploaded to the repository consist of copyright-free resources created by ourselves!
